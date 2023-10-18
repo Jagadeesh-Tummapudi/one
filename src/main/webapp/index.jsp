@@ -6,6 +6,6 @@
 	
 	
 	
-	<p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>	
+	<p>London is the capital city of England. </p>	
 </body>
 </html>
